@@ -12,7 +12,7 @@
 
 📅 **Monthly Budgeting:** Create custom budgets and track them over time.
 
-🔔 **Real-time Alerts:** Get notified when you're close to exceeding your budget.
+🔔 **Real-time Alerts:** Get notified when you're close to exceeding your budget..
 
 🧠 **Smart Insights:** Receive personalized tips based on your spending behavior.
 
